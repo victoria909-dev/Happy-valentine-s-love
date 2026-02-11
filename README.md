@@ -157,6 +157,7 @@ ul li {
 <div class="photo-frame">
   <img src="IMG-20250905-WA0080.jpg" class="love-photo">
   <div class="caption">A moment I won't be forgetting soon 😉💕</div>
+</div>
 
 <h2>💌 10 Reasons I Love You</h2>
 <ul id="reasons">
