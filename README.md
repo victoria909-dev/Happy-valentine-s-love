@@ -1,4 +1,3 @@
-# Happy-valentine-s-day
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -104,10 +103,8 @@ ul li {
 <div id="hearts-container"></div>
 
 <div class="box">
-<h1>Happy Valentine, Vestor ❤️</h1>
+<h1>Hi babe 🥺❤️</h1>
 <div class="heart">💖💘💞</div>
-
-<p>Hi babe 🥺</p>
 
 <p>I just want you to know that you make me really happy.</p>
 
